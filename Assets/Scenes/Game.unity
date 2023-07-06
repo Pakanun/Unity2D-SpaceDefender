@@ -1529,6 +1529,10 @@ PrefabInstance:
       propertyPath: moveSpeed
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 3574421870323671408, guid: 29943a48c2f2f944e966a24098efa0f4, type: 3}
+      propertyPath: paddingTop
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 6905964792981103057, guid: 29943a48c2f2f944e966a24098efa0f4, type: 3}
       propertyPath: m_Name
       value: Player
